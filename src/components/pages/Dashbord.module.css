@@ -1,0 +1,25 @@
+.container{
+    width: 100%;
+    height: 92%;
+    padding: 20px 50px 0;
+ 
+}
+
+.table_data{
+    width: 100%;
+    padding: 20px 50px 50px;
+}
+
+.view_detail{
+    all:unset;
+    padding: 2px 10px;
+    background-color: rgb(41, 44, 248);
+    border-radius: 7px;
+
+}
+
+.chart{
+    width: 100%;
+    height: 50%;
+    padding: 50px;
+}

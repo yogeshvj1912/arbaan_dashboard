@@ -1,0 +1,54 @@
+.container{
+    width: 100%;
+    height: 92%;
+    padding: 20px 50px 0;
+    background-color: rgb(244, 244, 244);
+ 
+}
+
+.table_data{
+    position: relative;
+
+}
+.get{
+    all:unset;
+    padding: 2px 10px;
+    background-color: rgb(15, 183, 37);
+    border-radius: 7px;
+}
+
+.delete{
+    all:unset;
+    padding: 2px 10px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 7px;
+}
+
+.open_model{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    width: 250px;
+    height: 130px;
+    border-radius: 10px;
+padding: 30px;
+ color: white;
+
+    background-color:rgb(36, 36, 36);
+  
+}
+
+.open_model_close{
+    display: none;
+}
+
+.button{
+    all: unset;
+    padding: 5px 10px;
+    border-radius: 20px;
+    color: black;
+    background-color: aliceblue;
+    margin: 10px 24px;
+}
